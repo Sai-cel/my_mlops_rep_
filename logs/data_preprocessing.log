@@ -1,0 +1,16 @@
+2025-05-26 10:40:34,524 - data_preprocessing - DEBUG - Data loaded properly
+2025-05-26 10:40:34,525 - data_preprocessing - DEBUG - starting preprocesing for datframe
+2025-05-26 10:40:34,529 - data_preprocessing - ERROR - column not found : 'text'
+2025-05-26 10:40:34,529 - data_preprocessing - ERROR - Failed to complete the data transformation process: name 'preprocessencoding_function_df' is not defined
+2025-05-26 10:42:02,128 - data_preprocessing - DEBUG - Data loaded properly
+2025-05-26 10:42:02,129 - data_preprocessing - DEBUG - starting preprocesing for datframe
+2025-05-26 10:42:12,638 - data_preprocessing - DEBUG - Target column encoed
+2025-05-26 10:42:12,645 - data_preprocessing - DEBUG - starting preprocesing for datframe
+2025-05-26 10:42:16,317 - data_preprocessing - DEBUG - Target column encoed
+2025-05-26 10:42:16,318 - data_preprocessing - ERROR - Failed to complete the data transformation process: makedirs() got an unexpected keyword argument 'exit_ok'
+2025-05-26 10:43:16,941 - data_preprocessing - DEBUG - Data loaded properly
+2025-05-26 10:43:16,941 - data_preprocessing - DEBUG - starting preprocesing for datframe
+2025-05-26 10:43:27,232 - data_preprocessing - DEBUG - Target column encoed
+2025-05-26 10:43:27,232 - data_preprocessing - DEBUG - starting preprocesing for datframe
+2025-05-26 10:43:30,806 - data_preprocessing - DEBUG - Target column encoed
+2025-05-26 10:43:30,927 - data_preprocessing - DEBUG - processed data saved to ./data\interim

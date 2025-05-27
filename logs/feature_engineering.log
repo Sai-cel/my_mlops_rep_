@@ -1,0 +1,5 @@
+2025-05-27 12:34:14,659 - feature_engineering - DEBUG - File ./data/interim/train_processed.csv read successfully.
+2025-05-27 12:34:14,680 - feature_engineering - DEBUG - File ./data/interim/test_processed.csv read successfully.
+2025-05-27 12:34:15,201 - feature_engineering - DEBUG - TF-IDF applied and data transformed.
+2025-05-27 12:34:15,259 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-27 12:34:15,279 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
